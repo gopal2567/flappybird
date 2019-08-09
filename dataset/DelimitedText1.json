@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "MissingCDMData.xlsx",
-				"container": "record"
+				"fileName": "Abcd.xlsx",
+				"container": "container1"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
